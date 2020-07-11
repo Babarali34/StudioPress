@@ -1,0 +1,39 @@
+@media  (max-width: 768px) {
+	       h1{font-size: 1.6rem;}
+	        h2{font-size: 1.3rem;}
+	        h6{font-size: 1.3rem;}
+	       body{text-align: center;}
+	       iframe{height: 200px;}
+         .thumbs
+           {width: 100%;margin-left: 0px;margin-top: 0px;}
+           
+
+           .header-text
+				{background-image: url('../images/a.jpg');
+				background-size: cover;background-position: center;
+				background-repeat: no-repeat;height: 60vh;
+				padding: 50px 20px 20px 20px;color: #fff;}
+             .header-text p
+           {display: block;padding: 5px 0;}
+
+            #owl-carousel .item
+			{
+			background-size: cover;background-position: center;
+			background-repeat: no-repeat;
+			padding: 30px 0px 0px 0px;height: 60vh;}
+
+			.owl-nav
+           {position: absolute;top: 70%;left: 60%;}
+           .about-phara
+				{width: 100%;border-left: 0px solid;
+				padding-left: 0px;text-align: center;}
+
+				footer
+			{height: auto;line-height: 80px;
+			overflow: hidden;text-align: center;}
+			footer .social-link
+      { display: block;text-align: center !important; }
+
+  }
+					
+			 
